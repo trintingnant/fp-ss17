@@ -2,7 +2,7 @@
 
 Nähere Infos zur Organisation der Übungen findet ihr 
 
-- im [Handout zum Übungsbetrieb](../handout-git.pdf) mit `git` 
+- im [Handout zum Übungsbetrieb](http://db.inf.uni-tuebingen.de/staticfiles/teaching/ss17/fp/handout-git.pdf) mit `git` 
     (Aus- und Abgabe von Übungsblättern),
     
 - im [Forum zur Veranstaltung](https://forum-db.informatik.uni-tuebingen.de/c/ss17-fp) 
